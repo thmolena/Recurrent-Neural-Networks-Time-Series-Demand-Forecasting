@@ -1,3 +1,3 @@
-# recurrent-neural-network-time-series-demand-forecasting
+# Recurrent Neural Networks for Time Series Demand Forecasting
 
-Summer Research Internship and Doctoral Supervised Research on Recurrent Neural Networks for Time Series Demand Forecasting
+Computer Science Ph.D. Summer Research Internship in designing sequence to sequence models on Time Series Data for Product Demand Forecasting.
